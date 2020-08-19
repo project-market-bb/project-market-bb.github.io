@@ -1,0 +1,12 @@
+- title: Compra ganado
+  description: Busca ganado de forma rápida gracias a los filtros especializados (raza, precio, ubicación, etc.)
+  image: assets/images/feature-icon1.png
+- title: Vende ganado
+  description: Publica tus anuncios de forma rápida y sencilla y recibe ofertas al instante.
+  image: assets/images/feature-icon2.png
+- title: Gratis
+  description: En Vacapop no existen las comisiones ni en tus compras ni en tus ventas.
+  image: assets/images/feature-icon3.png
+- title: Confidencial
+  description: Realiza tus tratos de forma confidencial gracias a nuestro chat privado.
+  image: assets/images/feature-icon4.png
