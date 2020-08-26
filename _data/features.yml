@@ -1,12 +1,12 @@
-- title: Compra ganado
-  description: Busca ganado de forma rápida gracias a los filtros especializados (raza, precio, ubicación, etc.)
+- title: COMPRA Y VENDE 
+  description: Encuentra sólo lo que buscas con nuestros filtros especializados. Publica un anuncio y recibe ofertas al instante.
   image: assets/images/feature-icon1.png
-- title: Vende ganado
-  description: Publica tus anuncios de forma rápida y sencilla y recibe ofertas al instante.
+- title: AMPLIA TU MERCADO
+  description: Recibe ofertas de miles de ganaderos de toda España y encuentra animales de todas las razas y provincias.
   image: assets/images/feature-icon2.png
-- title: Gratis
-  description: En Vacapop no existen las comisiones ni en tus compras ni en tus ventas.
+- title: NO PAGUES COMISIONES
+  description: Vacapop es totalmente gratuita. No pagarás comisiones de ningún tipo, ni por comprar ni por vender.
   image: assets/images/feature-icon3.png
-- title: Confidencial
-  description: Realiza tus tratos de forma confidencial gracias a nuestro chat privado.
+- title: CONFIDENCIAL
+  description: Negocia a través de nuestro chat privado, sin publicar tus datos personales o tu número de teléfono.
   image: assets/images/feature-icon4.png
