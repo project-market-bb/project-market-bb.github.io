@@ -2577,7 +2577,8 @@ input[type='submit'] {
   display: block; }
   .footer-logo img {
     position: relative;
-    z-index: 3; }
+    z-index: 3;
+    margin-left: -10px; }
 
 .footer-widget {
   margin-bottom: 30px;

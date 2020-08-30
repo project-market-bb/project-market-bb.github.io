@@ -2281,8 +2281,9 @@ button{
 	display:block;
 	
 	img{
-	    position:relative;
+	  position:relative;
 		z-index:3;
+		margin-left: -10px;
 	}
 }
 .footer-widget{
