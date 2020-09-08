@@ -6,10 +6,10 @@
 
 # Site settings
 
-title: "Vacapop"
+title: "Vacapop - La aplicación móvil para comprar y vender ganado"
 email: "hola@vacapop.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Vacapop la aplicación para comprar y vender ganado desde tu móvil. Gratis.
+  Vacapop es la aplicación para comprar y vender todo tipo de ganado desde tu móvil. Gratis y sin comisiones.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vacapop.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: vacapop
