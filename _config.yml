@@ -18,7 +18,7 @@ logo: "/assets/images/header-logo.png"
 mailchimp-list: //redgadgets.us10.list-manage.com/subscribe/post?u=210acce5db69d3d4a04b0e25d&amp;id=08c6708f40"
 apps:
   google_play: "https://play.google.com/store/apps/details?id=io.elprogramador.vacapop"
-  app_store: ""
+  app_store: "https://apps.apple.com/es/app/vacapop-compraventa-ganadera/id1528761977"
 cover_image: ""
 
 permalink: "/:title"
