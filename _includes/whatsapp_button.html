@@ -1,0 +1,14 @@
+<div id="WAButton"></div>
+<script type="text/javascript">  
+    $(function () {
+            $('#WAButton').floatingWhatsApp({
+                phone: '+34644028997', //WhatsApp Business phone number
+                headerTitle: 'Envía tu duda a Vacapop', //Popup Title
+                popupMessage: 'Hola, ¿cómo podemos ayudarte?', //Popup Message
+                showPopup: true, //Enables popup display
+                buttonImage: '<img src="{{site.baseurl}}/assets/images/whatsapp.svg" />', //Button Image
+                position: "right", //Position: left | right
+                zIndex: 999
+            });
+        });
+ </script>  
