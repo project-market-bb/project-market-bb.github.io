@@ -22,7 +22,8 @@
 		'./assets/css/custom-animation.css',
 		'./assets/css/slimmenu.min.css',
         './assets/css/swiper.min.css',
-        './assets/css/whatsapp_button.css'
+        './assets/css/whatsapp_button.css',
+        './assets/css/smartbanner.min.css'
     ];
     var JS_Files = [
         './assets/js/jquery.min.js',
@@ -35,7 +36,8 @@
 		'./assets/js/owl.carousel.thumbs.min.js',
 		'./assets/js/swiper.min.js',		
         './assets/js/app.js',
-        './assets/js/whatsapp_button.js'	
+        './assets/js/whatsapp_button.js',
+        './assets/js/smartbanner.js'		
     ];
 	
 	
